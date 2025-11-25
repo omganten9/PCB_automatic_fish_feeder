@@ -51,14 +51,12 @@ The PCB was designed using **KiCad** with:
 ---
 
 ## 📐 PCB Layout (Example)  
-`![PCB Schematics]`
-(PCB_automatic_fish_feeder/Docs/schematic.jpg)
+![PCB Schematics](PCB_automatic_fish_feeder/Docs/schematic.jpg)
 
-`![PCB Layout]`
-(PCB_automatic_fish_feeder/Docs/layout.jpg)
+![PCB Layout](PCB_automatic_fish_feeder/Docs/layout.jpg)
 
-`![PCB 3D]`
-(PCB_automatic_fish_feeder/Docs/3D.jpg)
+![PCB 3D](PCB_automatic_fish_feeder/Docs/3D.jpg)
+
 
 ---
 
