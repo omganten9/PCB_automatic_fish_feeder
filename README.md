@@ -50,9 +50,15 @@ The PCB was designed using **KiCad** with:
 
 ---
 
-## 📐 PCB Layout (Example)
-*(Add image later if available)*  
-`![PCB Layout](images/pcb_layout.png)`
+## 📐 PCB Layout (Example)  
+`![PCB Schematics]`
+(PCB_automatic_fish_feeder/Docs/schematic.jpg)
+
+`![PCB Layout]`
+(PCB_automatic_fish_feeder/Docs/layout.jpg)
+
+`![PCB 3D]`
+(PCB_automatic_fish_feeder/Docs/3D.jpg)
 
 ---
 
