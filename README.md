@@ -51,7 +51,7 @@ The PCB was designed using **KiCad** with:
 ---
 
 ## 📐 PCB Layout (Example)  
-![PCB Schematics](Docs/schematic.jpg)
+![PCB Schematics](Docs/schematics.jpg)
 
 ![PCB Layout](Docs/layout.jpg)
 
